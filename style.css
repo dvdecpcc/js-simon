@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    font-family: sans-serif;
+}
+
+.container{
+    text-align: center;
+}
+
+#numbersWrapper{
+    margin-top: 80px;
+}
+
+#displayNumbers{
+    margin-top: 100px;
+}
+
+#score{
+    margin-top: 100px;
+    font-size: 1.5rem;
+}
+
+.hidden{
+    display: none;
+}
